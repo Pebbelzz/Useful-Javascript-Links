@@ -20,4 +20,7 @@ Collection of links for useful things in Javascript
 <h2>E6</h2>
 <p><b><a href="https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.c9dt4eixq" target="_blank">How to Learn ES6</a></b> </p>
 
+<h2>Videos</h2>
+<p><b><a href="https://www.youtube.com/watch?v=zucCjXApXOU&index=5&list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS" target="_blank">Meet the Timers: setTimeout, setInterval, and requestAnimationFrame</a></b> - earn how to delay execution of your code to the specified (or right) time by using setTimeout, setInterval, and requestAnimationFrame</p>
+
 
