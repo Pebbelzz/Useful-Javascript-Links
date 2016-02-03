@@ -23,4 +23,6 @@ Collection of links for useful things in Javascript
 <h2>Videos</h2>
 <p><b><a href="https://www.youtube.com/watch?v=zucCjXApXOU&index=5&list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS" target="_blank">Meet the Timers: setTimeout, setInterval, and requestAnimationFrame</a></b> - earn how to delay execution of your code to the specified (or right) time by using setTimeout, setInterval, and requestAnimationFrame</p>
 
+<p><b><a href="https://www.youtube.com/watch?v=q_MXH_Ponpg" target="_blank">JavaScript array filter method</a></b></p>
+
 
