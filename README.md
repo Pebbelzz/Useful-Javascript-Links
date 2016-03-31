@@ -17,6 +17,8 @@ Collection of links for useful things in Javascript
 
 <p><b><a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.6gth3pt0y" target="_blank">Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?</a></b> - “Master the JavaScript Interview” is a series of posts designed to prepare candidates for common questions they are likely to encounter when applying for a mid to senior-level JavaScript position. </p>
 
+<p><b><a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.n0oynl3sd" target="_blank">Master the JavaScript Interview: What is a Closure?</a></b> - </p>
+
 <h2>E6</h2>
 <p><b><a href="https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.c9dt4eixq" target="_blank">How to Learn ES6</a></b> </p>
 
